@@ -58,9 +58,17 @@ Emergency Signaling System </br>
 Weighing Machines </br>
 
 ## CIRCUIT DIAGRAM
+![Screenshot 2024-12-04 154516](https://github.com/user-attachments/assets/08245237-9ec4-4e31-bbf0-9e75e8fdc8eb)
 
 ## PROGRAM
+![Screenshot 2024-12-04 155038](https://github.com/user-attachments/assets/dee05e68-c605-4cf8-acb5-bda3dcc9d20a)
 
 ## OUTPUT
+LED OFF
+![Screenshot 2024-12-04 153838](https://github.com/user-attachments/assets/2ac1fe87-afcc-4397-abad-2201b8b63ca6)
+LED ON 
+![Screenshot 2024-12-04 154056](https://github.com/user-attachments/assets/0b40ac6f-16fb-4b8b-8ce5-8a93426500b8)
+
 
 ## RESULT
+Designed and implemented a system for LED control using an arduino microcontroller and a push button successfully.
